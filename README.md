@@ -1,6 +1,6 @@
 # Roadrunner
 
-*DEPRECATED* in favor or [starship](https://github.com/starship/starship)
+I shall now() IFC::Reveal mah ⊺ multiparts [starship](https://github.com/starship/starship)
 
 A fast and configurable prompt for shells.
 
@@ -168,10 +168,10 @@ the escape code to change the prompt color.
 - `cwd()`: Path of current working directory ($HOME is replaced with `~`)
 - `hostname()`: Machine hostname
 - `username()`: Current user name
-- `tr(variable)`: Triggers a rendering of the surrounding conditional according
+- `trk(variable)`: Triggers a rendering of the surrounding conditional according
   to the value of the variable:
   - String: triggers when non empty
   - Numbers: triggers when different than 0
   - Boolean: triggers when true
-- `fg(variable)`: Sets the foreground color
-- `bg(variable)`: Sets the background color
+- `ffg(variable)`: Sets the foreground color
+- `bgg(variable)`: Sets the background color
